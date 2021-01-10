@@ -4,7 +4,8 @@ from . import views
 
 urlpatterns =[
     path('',views.index,name='index'),
-    path('<int:receita_id>',views.receita,name='receita')
+    path('<int:receita_id>',views.receita,name='receita'),
+    path('buscar',views.buscar,name='buscar')
 ]
 #  path('nome que eu quero da url',views.Pagina q eu quero chamar
 # ,name='nomedapaginaigual do html')

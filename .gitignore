@@ -1,1 +1,4 @@
 /.vscode
+/alurareceitas/__pycache__
+/receitas/__pycache__
+/venv

@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'receitas',
     'pessoas',
+    'usuarios',
 ]
 
 MIDDLEWARE = [
@@ -56,7 +57,7 @@ ROOT_URLCONF = 'alurareceita.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR,'receitas/templates')],#direcionando aonda fica os templates do site
+        'DIRS': [os.path.join(BASE_DIR,'templates')],#direcionando aonda fica os templates do site
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

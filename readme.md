@@ -12,3 +12,8 @@ Criando um site de receitas
 * Saiba como configurar e conectar sua aplicação com um banco de dados sql
 * Melhore seu código, reaproveitando em outras partes da aplicação
 * Entenda a arquitetura de uma aplicação feita com Django
+* Realize filtros e crie listas no seu site
+* Crie e integre modelos
+* Faça o admin do seu site com o Django admin
+* Saiba como criar uma página de busca com páginação
+

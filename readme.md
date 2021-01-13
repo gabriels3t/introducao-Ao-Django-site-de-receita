@@ -1,5 +1,5 @@
-# Introdução ao Django : Modelo, Rotas e Views
-Primeiros passos para ciencia de dados da formação Data science Alura
+# Introdução ao Django2 :  Criando um site de receitas
+
 
 # Descrição 
 Criando um site de receitas 
